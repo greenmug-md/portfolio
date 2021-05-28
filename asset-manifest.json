@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/greenmug-md.github.io/portfolio/static/css/main.e56f93bf.chunk.css",
+    "main.js": "/greenmug-md.github.io/portfolio/static/js/main.9311a3c9.chunk.js",
+    "main.js.map": "/greenmug-md.github.io/portfolio/static/js/main.9311a3c9.chunk.js.map",
+    "runtime-main.js": "/greenmug-md.github.io/portfolio/static/js/runtime-main.31a0736f.js",
+    "runtime-main.js.map": "/greenmug-md.github.io/portfolio/static/js/runtime-main.31a0736f.js.map",
+    "static/js/2.d9afec43.chunk.js": "/greenmug-md.github.io/portfolio/static/js/2.d9afec43.chunk.js",
+    "static/js/2.d9afec43.chunk.js.map": "/greenmug-md.github.io/portfolio/static/js/2.d9afec43.chunk.js.map",
+    "index.html": "/greenmug-md.github.io/portfolio/index.html",
+    "static/css/main.e56f93bf.chunk.css.map": "/greenmug-md.github.io/portfolio/static/css/main.e56f93bf.chunk.css.map",
+    "static/js/2.d9afec43.chunk.js.LICENSE.txt": "/greenmug-md.github.io/portfolio/static/js/2.d9afec43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31a0736f.js",
+    "static/js/2.d9afec43.chunk.js",
+    "static/css/main.e56f93bf.chunk.css",
+    "static/js/main.9311a3c9.chunk.js"
+  ]
+}
